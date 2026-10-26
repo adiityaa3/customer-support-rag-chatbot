@@ -1,0 +1,21 @@
+Company: TechNova Solutions
+
+Customer Support FAQ
+
+Q: What are your customer support hours?
+A: Customer support is available Monday to Friday, from 9 AM to 6 PM IST.
+
+Q: How can I contact customer support?
+A: Customers can contact support at support@technova.example.
+
+Q: How long does delivery take?
+A: Standard delivery usually takes 3–5 business days after an order is confirmed.
+
+Q: Can I cancel my order?
+A: Orders can be cancelled before they are shipped. Contact customer support with your order number.
+
+Q: How do I reset my password?
+A: Select Forgot Password on the login page and follow the instructions sent to your registered email address.
+
+Q: How can I request a refund?
+A: Contact customer support with your order number and the reason for the refund. Refund eligibility depends on the company's refund policy.
